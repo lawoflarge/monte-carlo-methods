@@ -1,4 +1,4 @@
-# Monte Carlo Methods — My MATLAB Solutions
+# Monte Carlo Methods: My MATLAB Solutions
 
 This repository contains **my own MATLAB solution code** for the exercise sheets of a
 university Monte Carlo Methods course I took. It is published as a personal reference
@@ -23,20 +23,20 @@ republish.
 
 The scripts work through a fairly standard Monte Carlo curriculum:
 
-- **Basic simulation & estimation** — coin/duel simulations, plasmid models,
+- **Basic simulation & estimation**: coin/duel simulations, plasmid models,
   Monte Carlo estimates with confidence intervals (CLT-based interval scripts).
-- **Pseudo-random number generation** — linear/multiplicative congruential
+- **Pseudo-random number generation**: linear/multiplicative congruential
   generators and chi-squared / goodness-of-fit testing of PRNGs.
-- **Sampling non-uniform distributions** — inverse-transform sampling,
-  acceptance–rejection (Cauchy, gamma), the Box–Muller and polar methods for
+- **Sampling non-uniform distributions**: inverse-transform sampling,
+  acceptance-rejection (Cauchy, gamma), the Box-Muller and polar methods for
   normal variates, uniform sampling on discs, rings, and tori.
-- **Numerical helpers** — Newton's method routines used to find
+- **Numerical helpers**: Newton's method routines used to find
   acceptance-rejection envelope constants.
-- **Monte Carlo integration & geometry** — random quadrilaterals, asteroid /
+- **Monte Carlo integration & geometry**: random quadrilaterals, asteroid /
   rocket hitting-probability problems.
-- **Variance reduction** — antithetic variates, control variates, and
+- **Variance reduction**: antithetic variates, control variates, and
   stratified sampling (train/tram waiting times, rainfall, uniform sums).
-- **Applied Monte Carlo problems** — record statistics, umbrella / random-walk
+- **Applied Monte Carlo problems**: record statistics, umbrella / random-walk
   problems, and related estimators.
 
 ## Running the code
